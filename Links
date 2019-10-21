@@ -1,0 +1,65 @@
+Manifest hosted on MyJSON:
+http://75ec25f0-3133-4ee7-9e2e-4fdda05285ee
+
+Storiiies:
+https://storiiies.cogapp.com/viewer/7dcm/Cambridge-Cattle-Market
+
+StoryMap:
+https://uploads.knightlab.com/storymapjs/762ce4985638502822e4ab301b5eaef3/what-a-difference-a-decade-makes-1/index.html
+EDIT:
+https://storymap.knightlab.com/edit/?id=what-a-difference-a-decade-makes-1
+
+Other odds and ends:
+https://cudl.lib.cam.ac.uk/view/PH-GEOGRAPHY-XT-00095/1
+
+Cambridge University Library
+
+https://image01.cudl.lib.cam.ac.uk/iiif/PH-GEOGRAPHY-O-00033-000-00001.jp2/full/!600,600/0/default.jpg
+
+
+https://image01.cudl.lib.cam.ac.uk/iiif/PH-GEOGRAPHY-O-00033-000-00001.jp2
+
+
+(70Kn LZ2)
+
+https://maps.nls.uk/view/189255116#zoom=6&lat=5130&lon=2162&layers=BT
+
+https://storymap.knightlab.com/edit/?id=what-a-difference-a-decade-makes-1
+
+http://free.iiifhosting.com/iiif/7ef18a54a2eb49b75396056c11d57f8e5f1ae70454458b1ba285347caf6f51ca/full/full/0/native.jpg
+
+http://free.iiifhosting.com/iiif/fb3112d43e2af817897359a59d712f530171a13053e1cf004bf5e75f4d7bd247/full/full/0/native.jpg
+
+https://api.myjson.com/bins/1dbi88
+
+ {
+          "images": [
+            {
+              "resource": {
+                "@type": "dctypes:Image",
+                "service": {
+                  "profile": "http://iiif.io/api/image/2/level1.json",
+                  "@id": "https://image01.cudl.lib.cam.ac.uk/iiif/PH-GEOGRAPHY-AGR-00062-000-00001.jp2",
+                  "@context": "http://iiif.io/api/image/2/context.json"
+                },
+                "format": "image/jpg",
+                "width": 6718,
+                "@id": "https://image01.cudl.lib.cam.ac.uk/iiif/PH-GEOGRAPHY-AGR-00062-000-00001.jp2",
+                "height": 7119
+              },
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "on": "https://cudl.lib.cam.ac.uk/iiif/PH-GEOGRAPHY-AGR-00062/canvas/1"
+            }
+          ],
+          "@type": "sc:Canvas",
+          "width": 6718,
+          "@id": "https://cudl.lib.cam.ac.uk/iiif/PH-GEOGRAPHY-AGR-00062/canvas/1",
+          "label": "4",
+          "height": 7119,
+          "related": {
+            "@id": "https://cudl.lib.cam.ac.uk/iiif/PH-GEOGRAPHY-AGR-00062",
+            "label": "Cambridge, looking N (AGR62)",
+            "format": ""
+          }
+        },
